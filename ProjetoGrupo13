@@ -1,0 +1,144 @@
+<html>
+
+<head>
+
+    <title> GAMA NEWS </title>
+    <link rel="stylesheet" href="estilo.css" />
+</head>
+
+
+<body>
+    <div id="conteudo">
+        <div id="cabecalho">
+            <h1>GAMA NEWS</h1>
+            <H2>Só boas notícias sobre a Covid-19</H2>
+
+        </div>
+        <div id="navbar">
+            <div> <a href="index.html">Home</a> </div>
+            <div> <a href="sobre.html">Sobre</a> </div>
+            <div> <a href="contato.html">Contato</a> </div>
+            <div> <a href="saibamais.html">Saiba mais</a> </div>
+        </div>
+
+        <div id="imagemGeral">
+            <img id="imgloja" src="Imagens/teste.jpg" />
+        </div>
+
+        <div id="titulosDestaque">
+            <h3>Notícias em Destaque</h3>
+        </div>
+
+        <div id="produtos">
+            <div class="produtoDestaque">
+                <img class="imgDestaque" src="Imagens/gift_1.jpg">
+                <h2><a href="https://youtu.be/iqvd4MxoAVU" target="_blank">Brasil completa vacinação de 60% da população
+                        adulta e está
+                        entre os que mais imunizaram</a></h2>
+                <p class="descDestaque">
+                    Até o momento, 60% dos brasileiros maiores de 18 anos já completaram o ciclo vacinal, com duas doses
+                    ou dose única contra o coronavírus. O percentual é maior que o de países que iniciaram a vacinação
+                    antes do Brasil, como os Estados Unidos. A média geral da maioria dos países da Europa também é
+                    menor.
+                </p>
+            </div>
+
+            <div class="produtoDestaque">
+                <img class="imgDestaque" src="Imagens/gift_2.jpg">
+                <h2><a href="https://youtu.be/VSnITLyDg_8" target="_blank">CoronaVac reduziu em 90% as mortes de pessoas
+                        com mais de 70
+                        anos</a></h2>
+                <p class="descDestaque">
+                    A queda foi observada em cinco estados - Ceará, Espírito Santo, Mato Grosso, Pará e Piauí. Nesses
+                    estados, a média de óbitos de pessoas com mais de 70 anos pela doença chegou a 148 por dia em 28 de
+                    março e caiu para 15 em 20 de agosto</p>
+            </div>
+
+
+
+            <div class="produtoDestaque">
+                <img class="imgDestaque"
+                    src="Imagens/Podcast/fotos-razoes-para-acreditar-paciente-danca-forro-medica-curado-covid-3.jpg">
+                <h2><a href="https://razoesparaacreditar.com/paciente-vence-covid-comemora-danca-medica/"
+                        target="_blank">
+                        Paciente vence Covid-19 após 94 dias de luta e dança forró com médica para comemorar.</a>
+                </h2>
+                <p class="descDestaque">
+                    Foram necessários quase 100 dias, mas o marceneiro Elismário Amorim, 54 anos, venceu a Covid-19 em
+                    um hospital de Goiânia (GO). Para comemorar sua alta, ele convidou a médica Isadora Mota,
+                    responsável pelo tratamento, para dançar forró.</p>
+            </div>
+
+            <div class="produtoDestaque">
+                <img class="imgDestaque" src="Imagens/Podcast/filha-aplica-vacina-pai-covid-2.jpg">
+                <h2><a href="https://razoesparaacreditar.com/filha-aplica-2-dose-vacina-pai-video-ms/" target="_blank">Filha aplica 2ª dose da vacina contra Covid
+                        no pai.</a></h2>
+                <p class="descDestaque">
+                    A estudante de enfermagem Gabriely Ramsdorf não conseguiu segurar a emoção ao aplicar a 2ª dose da
+                    vacina contra Covid no próprio pai, Marcelo Barros Leal, 41 anos. O momento da imunização foi
+                    compartilhado por ela nas redes sociais e rapidamente viralizou. “Tô emocionada! Estava exercendo a
+                    profissão com alguém que amo“, disse a jovem. </p>
+            </div>
+
+            <div class="produtoDestaque">
+                <img class="imgDestaque" src="Imagens/Podcast/detetive da saude.png">
+                <h2><a href="https://www.podbean.com/ew/pb-zdgmz-f5da44" target="_blank">Vitórias contra a Covid-19 em
+                        2020.</a></h2>
+                <p class="descDestaque">
+                    O coronavírus gerou uma tragédia global. Mas, mesmo em meio a tanta tristeza, há iniciativas
+                    nacionais voltadas para o combate da pandemia que salvaram milhares de vida e geraram muito orgulho.
+                </p>
+            </div>
+
+
+            <div class="produtoDestaque">
+                <img class="imgDestaque" src="Imagens/Podcast/5994-2020-05-14-WlsAW2gMga.jpg">
+                <h2><a href="https://anchor.fm/corona-fatos/episodes/Queda-nos-indicadores--mas-e14rnrg/a-a66m9ti"
+                        target="_blank">
+                        Queda nos números dos
+                        indicadores da Covid-19</a></h2>
+                <p class="descDestaque">
+                    Ainda é necessário manter os cuidados. O CoronaFatos dessa semana fala sobre a queda nos números dos
+                    indicadores da Covid-19, como as reduções no número de casos, mortes e na taxa de ocupação de leitos
+                    de UTI, reflexo do avanço da vacinação dos grupos mais vulneráveis.
+
+
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div id="rodape">
+        <div id="redessociais">
+
+            <div class="rede"><img src="Imagens/redes/linkedin.png" /><a
+                    href="https://www.linkedin.com/in/karina-ribeiro-272902168" target="_blank">Karina da Silva Ribeiro
+                </a> </div>
+            <div class="rede"><img src="Imagens/redes/linkedin.png" /><a
+                href="https://www.linkedin.com/in/arn%C3%A9lice-guerato-magalhaes-vieira-pcd-86984817a" target="_blank">Arnélice Guerato Magalhães Vieira
+            </a> </div>
+
+            <div class="rede"><img src="Imagens/redes/linkedin.png" /><a
+                href="https://www.linkedin.com/in/guilherme-sartor%C3%A3o-067b99107/" target="_blank">Guilherme
+                Sartorão
+            </a> </div>
+            
+            <div class="rede"><img src="Imagens/redes/linkedin.png" /><a
+                href="https://www.linkedin.com/in/antonio-ivanildo-oliveira-silva/" target="_blank">Antonio Ivanildo Oliveira Silva
+            </a> </div>
+            
+            <div class="rede"><img src="Imagens/redes/linkedin.png" /><a
+                href="https://www.linkedin.com/in/vinicios-da-costa-silva-104a1a170/" target="_blank">Vinicios da Costa Silva
+            </a> </div>
+
+        </div>
+        
+        <div id="email">
+            <h3 id="receba"> PROJETO GRUPO 13 GAMA ACADEMY </h3>
+            
+
+        </div>
+
+
+
+</body>
